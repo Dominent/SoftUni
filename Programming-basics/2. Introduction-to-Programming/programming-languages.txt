@@ -1,0 +1,31 @@
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages.
+How similar are they to C#? How do they differ from C#? 
+Write in a text file called “programming-languages.txt” at least five languages along with 2-3 sentences about each of them. 
+Use English.
+
+	C
+    Kernel level software.
+    Hardware device drivers
+    Applications where access to old, stable code is required.
+	C++
+    Application or Server development where memory management needs to be fine tuned (and can't be left to generic garbage collection solutions).
+    Development environments that require access to libraries that do not interface well with more modern managed languages.
+    Although managed C++ can be used to access the .NET framework, it is not a seamless transition.
+	C#
+    Rapid client application development.
+    High performance Server development (StackOverflow for example) that benefits from the .NET framework.
+    Applications that require the benefits of the .NET framework in the language it was designed for.
+    Garbage Collector
+	Python
+    Python is a widely used general-purpose, high-level programming language.
+    Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java.
+    The language provides constructs intended to enable clear programs on both a small and large scale.
+      	JavaScript
+    JavaScript is a high-level, dynamic, untyped, and interpreted programming language.
+    It has been standardized in the ECMAScript language specification.
+    Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production.
+    The majority of websites employ it and it is supported by all modern web browsers without plug-ins.
+    JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented,
+    imperative, and functional programming styles.It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities,
+    relying for these upon the host environment in which it is embedded.
+
